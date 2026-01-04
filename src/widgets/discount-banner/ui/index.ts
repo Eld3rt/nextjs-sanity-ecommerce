@@ -1,0 +1,2 @@
+export { DiscountBanner } from './DiscountBanner'
+
