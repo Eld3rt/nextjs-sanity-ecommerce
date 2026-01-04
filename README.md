@@ -20,15 +20,11 @@ A modern ecommerce application built with Next.js 16, Sanity CMS, Clerk authenti
 - Real-time content preview with draft mode
 - Responsive design with modern UI components
 
+## Test Account for Demo
+
+test@gmail.com:123456
+
 ## Getting Started
-
-### Prerequisites
-
-- Node.js 20+
-- npm or yarn
-- Sanity project
-- Clerk account
-- Stripe account
 
 ### Installation
 
